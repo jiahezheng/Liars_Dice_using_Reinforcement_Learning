@@ -50,6 +50,8 @@ Keep in mind, the strategy lies in making believable claims and knowing when to 
 ## Algorithm
 This repository contains the implementation of a Reinforcement Learning (RL) agent that has been trained to play Liar's Dice with a high level of skill. The agent, referred to as "the Agent", is trained to master the art of making believable claims and knowing when to challenge opponents, which are critical strategies for success in Liar's Dice.
 
+![](https://github.com/jiahezheng/RL_on_Liars_Dice/blob/main/Algorithm_structure.pdf)
+
 > Algorithm Structure
 
 ### Agent's Strategy
