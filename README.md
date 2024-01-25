@@ -102,10 +102,16 @@ The Q-table is updated as follows:
 
 where `α = 0.1` (learning rate) and `γ = 0.9`. This update rule adjusts the Agent's probability of doubting based on the outcome of its actions and the associated rewards.
 
+## References
 
+The following resources have provided invaluable insights and methodologies that have been instrumental in the development of this Reinforcement Learning agent:
+
+- Neller, Todd W., and Lanctot, Marc. (2013). *An Introduction to Counterfactual Regret Minimization*. Retrieved from [here](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf).
+
+- Daniel Oehm. (2018). *Q-learning example with Liar’s Dice in R*. Retrieved from [here](https://gradientdescending.com/q-learning-example-with-liars-dice-in-r/).
 
 ## Contact
-For any queries or contributions, feel free to contact [Your Contact Information].
+For any queries or contributions, feel free to contact jiahe.zheng01@gmail.com.
 
 ## License
 This project is licensed under [Your Chosen License].
