@@ -1,4 +1,4 @@
-# RL on Liar's Dice
+# Reinforcement Learning on Liar's Dice
 
 ## Introduction
 This project develops an artificial intelligence agent that utilizes Reinforcement Learning methodologies for proficient gameplay in Liar's Dice. The agent is designed to understand and strategically navigate the complexities of the game, making calculated decisions based on the gameplay dynamics.
