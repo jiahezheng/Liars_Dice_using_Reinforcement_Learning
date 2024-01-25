@@ -112,6 +112,3 @@ The following resources have provided invaluable insights and methodologies that
 
 ## Contact
 For any queries or contributions, feel free to contact jiahe.zheng01@gmail.com.
-
-## License
-This project is licensed under [Your Chosen License].
