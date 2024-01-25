@@ -111,4 +111,4 @@ The following resources have provided invaluable insights and methodologies that
 - Daniel Oehm. (2018). *Q-learning example with Liar’s Dice in R*. Retrieved from [here](https://gradientdescending.com/q-learning-example-with-liars-dice-in-r/).
 
 ## Contact
-For any queries or contributions, feel free to contact jiahe.zheng01@gmail.com.
+For any queries or contributions, feel free to contact through [email](jiahe.zheng01@gmail.com).
