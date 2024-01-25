@@ -60,7 +60,7 @@ The Agent's strategy is defined by a Q-table which takes into account its curren
 
 `Q(Agent's Rolls, Last Claim) = [P_doubt, P_claim_1, P_claim_2, ..., P_claim_n]`
 
-Here, each claim `P_claim_x` represents a possible claim that is stronger than the last claim made. Due to the vast number of possible dice combinations, the Q-table can become quite large, leading to significant computational costs. For demonstration purposes, our implementation showcases the algorithm for 3 players, each with 3 dice.
+Here, each claim `P_claim_x` represents a possible claim that is stronger than the last claim made. Due to the vast number of possible dice combinations, the Q-table can become quite large, leading to significant computational costs. For demonstration purposes, our implementation showcases the algorithm for 3 players, each with 2 dice.
 
 For example:
 - The agent rolls one 1, one 3, and one 6. This is represented in the Q-table as '101001'.
